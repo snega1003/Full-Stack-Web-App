@@ -1,0 +1,12 @@
+C:\Users\1\ArchBlog\Arch.IS4Host\bin\MCD\Debug\netcoreapp2.0\Arch.IS4Host.deps.json
+C:\Users\1\ArchBlog\Arch.IS4Host\bin\MCD\Debug\netcoreapp2.0\Arch.IS4Host.runtimeconfig.json
+C:\Users\1\ArchBlog\Arch.IS4Host\bin\MCD\Debug\netcoreapp2.0\Arch.IS4Host.runtimeconfig.dev.json
+C:\Users\1\ArchBlog\Arch.IS4Host\bin\MCD\Debug\netcoreapp2.0\Arch.IS4Host.dll
+C:\Users\1\ArchBlog\Arch.IS4Host\bin\MCD\Debug\netcoreapp2.0\Arch.IS4Host.pdb
+C:\Users\1\ArchBlog\Arch.IS4Host\obj\MCD\Debug\netcoreapp2.0\Arch.IS4Host.csprojAssemblyReference.cache
+C:\Users\1\ArchBlog\Arch.IS4Host\obj\MCD\Debug\netcoreapp2.0\Arch.IS4Host.csproj.CoreCompileInputs.cache
+C:\Users\1\ArchBlog\Arch.IS4Host\obj\MCD\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\1\ArchBlog\Arch.IS4Host\obj\MCD\Debug\netcoreapp2.0\Arch.IS4Host.AssemblyInfoInputs.cache
+C:\Users\1\ArchBlog\Arch.IS4Host\obj\MCD\Debug\netcoreapp2.0\Arch.IS4Host.AssemblyInfo.cs
+C:\Users\1\ArchBlog\Arch.IS4Host\obj\MCD\Debug\netcoreapp2.0\Arch.IS4Host.dll
+C:\Users\1\ArchBlog\Arch.IS4Host\obj\MCD\Debug\netcoreapp2.0\Arch.IS4Host.pdb
